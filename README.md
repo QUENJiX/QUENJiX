@@ -1,4 +1,4 @@
-# QUENJiX
+# Hasibul Islam
 
 ### Full-Stack Engineer | AI/ML Enthusiast | Product Builder
 
